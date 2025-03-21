@@ -1,0 +1,9 @@
+plotly-express 
+pandas
+numpy
+seaborn
+scikit-learn
+imblearn
+imbalanced-learn
+xgboost
+joblib
