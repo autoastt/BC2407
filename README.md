@@ -19,8 +19,7 @@
     - MLP (Multi-layer Perceptron)
     - XGBoost
 
-### 📈 Results
-- `results/` – Plots and visualizations for model evaluation
+- `results/` – Plots and visualisations for model evaluation
 
 ### 🌐 Dashboard Application
 - `models/` – Serialized model files used in the dashboard
