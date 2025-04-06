@@ -1,5 +1,13 @@
 # BC2407 Seminar 4 – Team 2 Submission
 
+## Members
+- Kwa Jia Jie Nigel (U2310282B)
+- Kongkijpipat Peeranat (U2323360A)
+- Lee Zhi Xuan (U2310276A)
+- Li Muchen (U2311461A)
+- Sabareesh Karuppiah Pandik Kannan (U2322638L)
+
+## Files Explanation
 ### 🧹 Data Exploration & Preparation
 - `EDA.ipynb` - Code for EDA and data visualisation
   
