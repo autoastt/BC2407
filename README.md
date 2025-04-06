@@ -1,12 +1,26 @@
-# BC2407 Seminar 4 Team 2 | Submission
+# BC2407 Seminar 4 – Team 2 Submission
 
-* `Prep.ipynb`: Code for Data Cleaning and Preparation
-* `data/hotel_booking.csv`: Original Dataset
-* `data/hotel_cleaned.csv`: Cleaned Dataset
-* `data/train-test/`: Train and Test Dataset (70:30 Split with SMOTE for Train Set)
-* `Model.ipynb`: Code for Modeling (Random Forest, MLP, XGBoost)
-* `results/`: Result Plots for Each Model
-* `models/`: Saved Trained Models for Dashboard
-* `App.py`: Main File for Dashboard
-* `pages/`: Code for Streamlit Dashboard
-* `.streamlit/`: Streamlit Configuration (Theme)
+### 🧹 Data Preparation
+- `Prep.ipynb` – Jupyter notebook for data cleaning and preprocessing
+
+- `data/hotel_booking.csv` – Original raw dataset
+
+- `data/hotel_cleaned.csv` – Cleaned version of the dataset
+
+- `data/train-test/` – Contains the 70:30 train-test split (SMOTE applied to the training set)
+
+### 🤖 Modeling
+- `LogisticReg.R` - R Code for Logistic Regression
+- `Model.ipynb` – Notebook for training models:
+    - Random Forest
+    - MLP (Multi-layer Perceptron)
+    - XGBoost
+
+### 📈 Results
+- `results/` – Plots and visualizations for model evaluation
+
+### 🌐 Dashboard Application
+- `models/` – Serialized model files used in the dashboard
+- `App.py` – Main entry point for the Streamlit dashboard
+- `pages/` – Source code for individual dashboard pages
+- `.streamlit/` – Configuration files for Streamlit (e.g., theme settings)
